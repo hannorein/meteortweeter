@@ -1,5 +1,5 @@
 #!/bin/bash
-MESSAGE="Meteor video"
+MESSAGE="The #UTSC meteor camera just captured this video. Note: automated tweet of unverified raw data, might not be a #meteor. 🔭🌠"
 
 SIZE=`stat --format="%s" latest.mp4`
 echo "$SIZE"
